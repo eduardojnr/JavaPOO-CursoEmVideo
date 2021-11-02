@@ -1,8 +1,4 @@
 
-
-
-
-
 /* Criar a classe Caneta
  
  * Atributos:
