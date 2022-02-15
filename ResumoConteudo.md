@@ -86,7 +86,8 @@ Podemos relacionar duas classes utilizando a UML da seguinte maneira:
 * Superclasse e subclasse (mãe e filha, respectivamente);
 * Classes descendentes são aquelas que pertencem à uma "família" anterior, no entanto, __uma classe filha não é considerada descendente da sua classe mãe__;
 * Classes ancestrais são similares às descendentes, só que o processo é inverso. __Uma classe mãe não pode ser ancestral de sua filha__;
-* Especialização é o ato de percorrer uma árvore de classes de cima para baixo (raiz para folhas);  * Generalização é o ato de percorrer uma árvore de classes de baixo para cima (folhas para raiz).
+* Especialização é o ato de percorrer uma árvore de classes de cima para baixo (raiz para folhas);
+* Generalização é o ato de percorrer uma árvore de classes de baixo para cima (folhas para raiz).
 
 ***
 Classe Abstrata: não pode ser instanciada (criar objetos), apenas servir como Superclasse.
