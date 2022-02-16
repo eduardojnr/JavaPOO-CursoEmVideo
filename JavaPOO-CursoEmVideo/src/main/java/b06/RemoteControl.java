@@ -24,7 +24,7 @@ public class RemoteControl implements Controller{
     }
 
     @Override
-    public void turnOf() {
+    public void turnOff() {
         this.setStatus(false);
     }
 

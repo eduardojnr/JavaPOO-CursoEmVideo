@@ -2,7 +2,7 @@ package b06;
 
 public interface Controller {
     public abstract void turnOn();
-    public abstract void turnOf();
+    public abstract void turnOff();
     public abstract void openMenu();
     public abstract void closeMenu();
     public abstract void increaseVolume();
