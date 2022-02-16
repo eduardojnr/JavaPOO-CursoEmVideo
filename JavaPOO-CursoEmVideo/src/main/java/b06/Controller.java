@@ -1,0 +1,14 @@
+package b06;
+
+public interface Controller {
+    public abstract void turnOn();
+    public abstract void turnOf();
+    public abstract void openMenu();
+    public abstract void closeMenu();
+    public abstract void increaseVolume();
+    public abstract void decreaseVolume();
+    public abstract void mute();
+    public abstract void unmute();
+    public abstract void play();
+    public abstract void pause();
+}
